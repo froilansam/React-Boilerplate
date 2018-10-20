@@ -1,2 +1,2 @@
-# reactboilerplate
-React Boilerplate - Modified
+# React Boilerplate
+React Boilerplate modified for sessions.
